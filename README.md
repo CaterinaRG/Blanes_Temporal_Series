@@ -4,7 +4,7 @@ This repository contains code and data included in Giner et al. (2018), '_Quanti
 
 
 #### Analysis ####
->- **R_BlanesTemporalAnalysis_CRGiner.R:** R analysis used in the manuscript.
+>- **R_BlanesTemporalAnalysis_CRGiner.R:** R analyses used in the manuscript.
 
 For more details of the _recurrence index_ developed in this project look at the repository ‘recurrence index’ where the code is available.
 
